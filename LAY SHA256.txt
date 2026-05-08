@@ -1,0 +1,2 @@
+PS C:\Windows\system32> cd C:\APP\CHECKXML\dist_Release
+PS C:\APP\CHECKXML\dist_Release> Get-FileHash .\CHECKXML.exe
